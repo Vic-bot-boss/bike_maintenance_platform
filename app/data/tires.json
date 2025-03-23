@@ -1,0 +1,19 @@
+[
+    {
+      "etrto": "28-622",
+      "marked_size": "700x28c",
+      "use_case": "Road",
+      "tire_type": "Clincher",
+      "recommended_pressure_psi": "85–110",
+      "notes": "Standard road tire size."
+    },
+    {
+      "etrto": "54-584",
+      "marked_size": "27.5x2.1",
+      "use_case": "MTB",
+      "tire_type": "Clincher",
+      "recommended_pressure_psi": "35–60",
+      "notes": "Common MTB tire size for 27.5-inch wheels."
+    }
+  ]
+  

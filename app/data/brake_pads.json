@@ -1,0 +1,18 @@
+[
+  {
+    "model": "B01S",
+    "system": "Hydraulic",
+    "brake_type": "Disc",
+    "brand": "Shimano",
+    "compatible_calipers": ["BR-M315", "BR-M355", "BR-M365"],
+    "notes": "Most common Shimano resin disc pad."
+  },
+  {
+    "model": "M70T4",
+    "system": "V-brake",
+    "brake_type": "Rim",
+    "brand": "Shimano",
+    "compatible_calipers": [],
+    "notes": "Compatible with all Shimano V-brake systems."
+  }
+]

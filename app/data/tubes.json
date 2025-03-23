@@ -1,0 +1,17 @@
+[
+    {
+      "wheel_size": "700c",
+      "width_range_mm": "25–32",
+      "valve_type": "Presta",
+      "valve_length_mm": 48,
+      "notes": "Fits 700x25–32c tires with 48mm Presta valve."
+    },
+    {
+      "wheel_size": "27.5",
+      "width_range_mm": "2.0–2.3",
+      "valve_type": "Schrader",
+      "valve_length_mm": 32,
+      "notes": "Common for MTB 27.5-inch wheels."
+    }
+  ]
+  

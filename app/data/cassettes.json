@@ -1,0 +1,19 @@
+[
+    {
+      "model": "CS-HG200-8",
+      "speeds": [8],
+      "range": "12-32T",
+      "brand": "Shimano",
+      "use_case": ["MTB", "Urban"],
+      "notes": "Standard 8-speed cassette for MTB/trekking."
+    },
+    {
+      "model": "CS-HG500-10",
+      "speeds": [10],
+      "range": "11-32T",
+      "brand": "Shimano",
+      "use_case": ["Road"],
+      "notes": "Fits Shimano 10-speed road systems."
+    }
+  ]
+  

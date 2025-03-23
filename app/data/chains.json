@@ -1,0 +1,16 @@
+[
+  {
+    "model": "CN-HG71",
+    "speeds": [6, 7, 8],
+    "outer_width": "7.1mm",
+    "compatible_brands": ["Shimano", "SRAM"],
+    "notes": "Designed for 6/7/8-speed drivetrains"
+  },
+  {
+    "model": "CN-HG95",
+    "speeds": [10],
+    "outer_width": "6.1mm",
+    "compatible_brands": ["Shimano"],
+    "notes": "Sil-Tec coated, 10-speed MTB"
+  }
+]
