@@ -3,7 +3,12 @@ uvicorn[standard]
 python-dotenv
 passlib[bcrypt]
 python-jose[cryptography]
+pydantic[email]
 pydantic
 openai
 requests
 pyjwt
+uuid
+python-multipart
+datetime
+typing-extensions
