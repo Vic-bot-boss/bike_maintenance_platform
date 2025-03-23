@@ -16,6 +16,14 @@ app = FastAPI(
     version="1.0.0"
 )
 
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # or set to your frontend domain in prod
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 # Manually define the OpenAPI schema to override the default OAuth2 UI
 def custom_openapi():
     if app.openapi_schema:
