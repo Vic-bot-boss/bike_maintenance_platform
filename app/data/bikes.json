@@ -1,0 +1,107 @@
+{
+  "user@example.com": [
+    {
+      "id": "01188d1c-b442-41b9-8b20-5c86ce9c6173",
+      "name": "string",
+      "bike_type": "string",
+      "rear_speeds": 0,
+      "drivetrain_brand": "string",
+      "front_chainrings": "string",
+      "brake_type": "string",
+      "brake_system": "string",
+      "brake_brand": "string",
+      "tire_size": "string",
+      "valve_type": "string",
+      "valve_length": "string"
+    },
+    {
+      "id": "83cca655-b081-41ca-b4e5-325c0f445c91",
+      "name": "Weartestbike",
+      "bike_type": "Road",
+      "rear_speeds": 7,
+      "drivetrain_brand": "Shimano",
+      "front_chainrings": "1x",
+      "brake_type": "Disc",
+      "brake_system": "Hydraulic",
+      "brake_brand": "Shimano",
+      "tire_size": "700x28c",
+      "valve_type": "Presta",
+      "valve_length": "48mm",
+      "installed_at": "2025-03-01",
+      "weekly_km": 50.0
+    },
+    {
+      "id": "e35d349e-5f4c-4e3b-874c-0bbcb088e2a1",
+      "name": "string",
+      "bike_type": "string",
+      "rear_speeds": 0,
+      "drivetrain_brand": "string",
+      "front_chainrings": "string",
+      "brake_type": "string",
+      "brake_system": "string",
+      "brake_brand": "string",
+      "tire_size": "string",
+      "valve_type": "string",
+      "valve_length": "string",
+      "installed_at": "2025-03-23",
+      "weekly_km": 50.0
+    },
+    {
+      "id": "152047cb-dbaf-4c95-bdb7-17089c8cb45a",
+      "name": "string",
+      "bike_type": "string",
+      "rear_speeds": 0,
+      "drivetrain_brand": "string",
+      "front_chainrings": "string",
+      "brake_type": "string",
+      "brake_system": "string",
+      "brake_brand": "string",
+      "tire_size": "string",
+      "valve_type": "string",
+      "valve_length": "string",
+      "installed_at": "2025-03-23",
+      "weekly_km": 50.0
+    },
+    {
+      "id": "2e1599e6-2c1b-4613-aeb2-f8ee36de5afd",
+      "name": "string",
+      "bike_type": "string",
+      "rear_speeds": 0,
+      "drivetrain_brand": "string",
+      "front_chainrings": "string",
+      "brake_type": "string",
+      "brake_system": "string",
+      "brake_brand": "string",
+      "tire_size": "string",
+      "valve_type": "string",
+      "valve_length": "string",
+      "weekly_km": 50.0,
+      "components": {},
+      "service_log": []
+    },
+    {
+      "id": "cc0b03b9-592e-42a9-b692-549edc28160c",
+      "name": "Weartestbike",
+      "bike_type": "Road",
+      "rear_speeds": 7,
+      "drivetrain_brand": "Shimano",
+      "front_chainrings": "1x",
+      "brake_type": "Disc",
+      "brake_system": "Hydraulic",
+      "brake_brand": "Shimano",
+      "tire_size": "700x28c",
+      "valve_type": "Presta",
+      "valve_length": "48mm",
+      "weekly_km": 50.0,
+      "components": {},
+      "service_log": [
+        {
+          "date": "2025-03-20",
+          "action": "Service",
+          "component": "Chain",
+          "notes": "Chain was replaced"
+        }
+      ]
+    }
+  ]
+}
